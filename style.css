@@ -5,26 +5,9 @@ body {
   font-family: Arial, sans-serif; /* Fonte */
   margin: 0;
   padding: 0;
-  height: 100vh; /* Para garantir que ocupe toda a altura da tela */
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  height: 100vh; /* Garantir que a página ocupe toda a altura da tela */
+}
+
+h1, p {
   text-align: center;
 }
-
-/* Estilo para o conteúdo centralizado */
-.container {
-  background-color: rgba(255, 255, 255, 0.8); /* Fundo branco com opacidade */
-  padding: 20px;
-  border-radius: 15px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-h1 {
-  color: #333; /* Cor escura para o título */
-}
-
-p {
-  font-size: 18px;
-}
-
