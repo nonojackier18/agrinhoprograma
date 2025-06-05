@@ -1,5 +1,30 @@
-<div style="background-color: #28a745; padding: 50px; border-radius: 10px;">
-  <h1 style="color: white; text-align: center;">Bem-vindo ao meu perfil no GitHub!</h1>
-  <p style="color: white; text-align: center;">
-  </p>
-</div>
+/* Estilo para o fundo verde maçã */
+body {
+  background-color: #8bc34a; /* Cor verde maçã */
+  color: white; /* Cor do texto */
+  font-family: Arial, sans-serif; /* Fonte */
+  margin: 0;
+  padding: 0;
+  height: 100vh; /* Para garantir que ocupe toda a altura da tela */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+/* Estilo para o conteúdo centralizado */
+.container {
+  background-color: rgba(255, 255, 255, 0.8); /* Fundo branco com opacidade */
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #333; /* Cor escura para o título */
+}
+
+p {
+  font-size: 18px;
+}
+
