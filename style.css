@@ -11,3 +11,8 @@ body {
 h1, p {
   text-align: center;
 }
+
+.inicio{
+    background-color: #025912;
+  line-height: 1.6;
+}
