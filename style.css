@@ -7,8 +7,10 @@ body {
   padding: 0;
   height: 100vh; /* Garantir que a página ocupe toda a altura da tela */
 }
-nav { 
-  background-color:#025912;
+body { 
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  mbackgorund-color: #8bc34a;
+  line-height: 1.6;
   
 }
 h1, p {
