@@ -7,7 +7,10 @@ body {
   padding: 0;
   height: 100vh; /* Garantir que a página ocupe toda a altura da tela */
 }
-
+nav { 
+  background-color:#025912;
+  
+}
 h1, p {
   text-align: center;
 }
