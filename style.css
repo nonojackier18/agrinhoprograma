@@ -11,14 +11,5 @@ body{
   color: aliceblue;
 }
 
-  div::before {
-  content: '';
-  display: block;
-  width: 100px;
-  height: 100px;
-  background-image: url('https://s1.eestatic.com/2021/07/12/actualidad/595952167_195030066_1706x960.jpg');
-  background-size: contain; /* Para que a imagem se ajuste ao tamanho do elemento */
-}
-
 
 
